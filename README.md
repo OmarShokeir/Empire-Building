@@ -11,6 +11,13 @@ For the university project intended to practice object oriented programming we c
 - 2 Resources
 
 ## Contributors:
+### Code:
 - Mohamed Saad
 - Amr Nader
 - Omar Shokeir
+
+### User Interface:
+- Omar Shokeir
+- Ali Serafi
+
+> Due to the compressed time frame, we didn't invest so much into a beautiful UI which hopefully one day I would come back and improve so its a **work in progress!** 
