@@ -1,6 +1,6 @@
 # Empire Building
 
-For the university project intended to practice object oriented programming we created this projcet, one of the most exhausting but yet the most enjoyable proejct ever.
+For the university project intended to practice object oriented programming we created this project, one of the most exhausting but yet the most enjoyable project ever.
 
 *A game where you start with a province and try to expand and conquer the 2 other provinces, you only have 50 turns to do so.*
 
